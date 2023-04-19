@@ -58,6 +58,8 @@ Post Request -> @Post
 
 Decorator takes an argument (the function being decorated) and returns the same function with added functionality.
 
+5. PIPES -> functions and methods that transform data
+
 !! Important !!
 
 Nest js will convert the data type based on what is returned to the endpoint
